@@ -20,27 +20,9 @@
         alt="VS code" width="40" height="40"
     /> 
  </a> 
- <!-- html -->
- <a 
-    href="https://www.java.com" 
-    target="_blank" rel="noreferrer"> 
-    <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        alt="java" width="40" height="40"
-    /> 
- </a> 
- <!-- css -->
- <a 
-    href="https://www.java.com" 
-    target="_blank" rel="noreferrer"> 
-    <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-        alt="java" width="40" height="40"
-    /> 
- </a> 
  <!-- js -->
  <a 
-    href="https://www.java.com" 
+    href="https://developer.mozilla.org/es/docs/Web/JavaScript" 
     target="_blank" rel="noreferrer"> 
     <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -49,7 +31,7 @@
  </a> 
  <!-- react -->
  <a 
-    href="https://www.java.com" 
+    href="https://es.react.dev/" 
     target="_blank" rel="noreferrer"> 
     <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
@@ -65,24 +47,24 @@
         width="40" height="40"
     /> 
  </a> 
-<!--  langchain  -->
-  <a 
-    href="https://python.langchain.com/"
-    target="_blank" rel="noreferrer"> 
-    <img
-        src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="astro"
-        width="40" height="40"
-    /> 
- </a> 
 <!--  python  -->
   <a 
     href="https://www.python.org/"
     target="_blank" rel="noreferrer"> 
     <img
-        src="https://pbs.twimg.com/profile_images/1589007733226844160/i5-iIoSc_400x400.jpg" alt="astro"
+        src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="astro"
         width="40" height="40"
     /> 
- </a> 
+ </a>
+<!--  langchain  -->
+  <a 
+    href="https://python.langchain.com/"
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://exafunction.github.io/public/icons/langchain.png" alt="astro"
+        width="40" height="40"
+    /> 
+ </a>  
 <br>
 
 </p> 
