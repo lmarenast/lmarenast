@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Prompt&weight=500&size=30&duration=3000&pause=200&color=67E1F7&background=FFFFFF00&center=true&width=435&lines=Hi!%2C+im+Luis+Miguel;I+am+an+engineer+;and+AI+developer;Always+learning!" alt="Typing SVG" /></a>
 </p>
 
-- 🌱 Currently studying to be an AI developer
+- 🌱 Currently studying to be an Cybersecurity Analyst
 - 📫 How to reach me: lmarenast@unal.edu.co
 - 🙋‍♂️ I love anime!
 
